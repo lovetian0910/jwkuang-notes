@@ -1,4 +1,5 @@
 ---
+draft: true
 created: 2026-02-10
 updated: 2026-02-10
 tags: [知识管理, Skill, Obsidian, 工具]

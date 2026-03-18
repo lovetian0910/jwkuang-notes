@@ -1,4 +1,5 @@
 ---
+draft: true
 created: 2026-02-11
 updated: 2026-02-11
 tags: [思维模式, AI时代, 个人成长, 方法论, 知识管理]

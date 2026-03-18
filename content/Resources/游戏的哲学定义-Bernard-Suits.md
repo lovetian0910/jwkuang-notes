@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # 游戏的哲学定义 - Bernard Suits
 
 ## 📌 核心定义

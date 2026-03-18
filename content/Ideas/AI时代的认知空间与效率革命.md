@@ -1,4 +1,5 @@
 ---
+draft: true
 created: 2026-03-01
 updated: 2026-03-01
 tags: [AI时代, 认知, 效率, 思维模型, 创造力]

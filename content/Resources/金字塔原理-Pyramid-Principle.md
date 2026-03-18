@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # 金字塔原理（Pyramid Principle）
 
 ## 概述
